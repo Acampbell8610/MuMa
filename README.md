@@ -17,7 +17,7 @@ A site that allows you to search artist and see their top 5 songs and albums and
 
 active link: https://hazel-jimenez.github.io/MuMa/
 
-github repo link: https://github.com/hazel-jimenez/MuMa
+github repo link: https://github.com/Acampbell8610/MuMa
 
 
 ## Authors
